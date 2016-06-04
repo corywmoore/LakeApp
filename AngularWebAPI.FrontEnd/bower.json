@@ -1,0 +1,28 @@
+{
+  "name": "lakecalendar",
+  "homepage": "https://github.com/cornflourblue/angular-webapi-authentication-example",
+  "authors": [
+    "Cory Moore"
+  ],
+  "description": "Calendar to reserve time at the lake camp.",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.6",
+    "bootstrap": "^3.3.6",
+    "angular-bootstrap": "^1.3.3",
+    "angular-ui-calendar": "^1.0.1",
+    "underscore": "^1.8.3",
+    "jquery": "^2.2.4",
+    "angular-cookies": "^1.5.6",
+    "angular-route": "^1.5.6"
+  }
+}
